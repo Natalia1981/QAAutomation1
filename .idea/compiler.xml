@@ -6,9 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="domain" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="QAAutomation" target="16" />
       <module name="store" target="16" />
     </bytecodeTargetLevel>
   </component>
