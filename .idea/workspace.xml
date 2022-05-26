@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80e34606-5b39-4901-8312-e30f9862f6c0" name="Changes" comment="1commit">
-      <change afterPath="$PROJECT_DIR$/.gitingore" afterDir="false" />
+    <list default="true" id="80e34606-5b39-4901-8312-e30f9862f6c0" name="Changes" comment="2commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +58,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653558536038</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2commit">
+      <created>1653563217954</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653563217954</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2commit">
+      <created>1653563482053</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653563482053</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,6 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="1commit" />
+    <MESSAGE value="2commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2commit" />
   </component>
 </project>
